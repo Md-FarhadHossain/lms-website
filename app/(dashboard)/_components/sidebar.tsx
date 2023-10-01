@@ -13,7 +13,7 @@ const Sidebar = () => {
                 <Logo />
             </div>
             {/* Sidebar Routes */}
-            <div className='flex flex-col 2w-full'>
+            <div className='flex flex-col w-full'>
                 <SidebarRoutes />
             </div>
         </div>
